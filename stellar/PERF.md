@@ -76,7 +76,7 @@ ownership checks.
 ## Current Numbers
 
 <!-- BENCH:CURRENT:START -->
-These are the harness results auto-updated from `develop` (measured 2026-09-25, commit `33aea4534e25`).
+These are the harness results auto-updated from `develop` (measured 2026-10-22, commit `51a0f7800bb9`).
 
 | Contract | Function | Parameters | Instructions | Mem bytes | Read entries | Write entries | Read bytes | Write bytes | Event bytes |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
